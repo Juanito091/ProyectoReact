@@ -6,6 +6,6 @@ ENTREGA N°1 REACT JS.
 
 Para iniciar el proyecto clonar en una carperta el repositorio
 
-  git clone 
+  git clone https://github.com/Juanito091/ProyectoReact.git
 
 Una vez clonado el repositorio, ingresar al terminal y escribir el comando **npm i o npm install**, así instalaremos los archivos faltantes. Luego para levantar el proyecto pondremos en la consola el comando **npm run dev**.
